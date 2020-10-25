@@ -1,0 +1,6 @@
+framework module Pods_codepath_hw1_codepath_hw1UITests {
+  umbrella header "Pods-codepath_hw1-codepath_hw1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
